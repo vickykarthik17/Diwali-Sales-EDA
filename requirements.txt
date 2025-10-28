@@ -1,9 +1,4 @@
-voila
-notebook
+streamlit
 pandas
-numpy
 matplotlib
 seaborn
-scipy
-scikit-learn
-jupyterlab
