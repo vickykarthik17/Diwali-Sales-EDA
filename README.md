@@ -49,7 +49,7 @@ The analysis highlights target customer segments and profitable product categori
 
 Clone this repository
 
-git clone https://github.com/vickykarthik17/Diwali-Sales-PowerBI.git
+git clone https://github.com/vickykarthik17/Diwali-Sales-EDA.git
 
 
 Install required dependencies
